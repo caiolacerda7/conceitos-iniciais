@@ -1,0 +1,9 @@
+A)URL: É um localizador e identificador de recursos na web.
+
+B)HTTP: Facilita a troca de mensagens entre computadores.
+
+C)TCP: Garante a entrega dos dados ao destino.
+
+D)IP: Identifica cada endereço de dispositivo na rede.
+
+E)DNS: Converte um nome de domínio em um endereço de IP.
